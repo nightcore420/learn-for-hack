@@ -1,5 +1,7 @@
 # Contributors
+
 <!-- prettier-ignore-start -->
+
 - [Al-User12](https://github.com/Al-User12)
 - [Abhishek Mishra](https://github.com/AbhiMishra-Now)
 - [Gelio](https://github.com/bigelio)
@@ -4106,8 +4108,7 @@
 - [Paulo Diniz](https://github.com/pldnz)
 - [Lalu Muhammad Gilang Kharisma](https://github.com/GilangKharisma/)
 - [Cra Rospo](https://github.com/CraRospo)
-- [Kevin Palowa](https://github.com/KevinPalowa/)
--[Looper](https://github.com/ResponseTime)
+- [Kevin Palowa](https://github.com/KevinPalowa/) -[Looper](https://github.com/ResponseTime)
 - [X3nonxe](https://github.com/X3nonxe/)
 - [nikhilxe](https://github.com/nikhilxe)
 - [Karthik Purushothaman](https://github.com/pkarthik15)
@@ -4197,4 +4198,5 @@
 - [Makkun](https://github.com/Makkkkuuunn)
 - [Anton Yartsev](https://github.com/AntonYartsev)
 - [kesz24](https://github.com/kesz24)
+- [khoirxz](https://github.com/khoirxz)
 <!-- prettier-ignore-end -->
