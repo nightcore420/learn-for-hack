@@ -1,5 +1,7 @@
 # Contributors
+
 <!-- prettier-ignore-start -->
+
 - [Al-User12](https://github.com/Al-User12)
 - [Abhishek Mishra](https://github.com/AbhiMishra-Now)
 - [Gelio](https://github.com/bigelio)
@@ -26,6 +28,7 @@
 - [Akinbobola Emmanuel](https://github.com/Oluwatominsin-c)
 - [Razin Reaz Abedin](https://github.com/RazinReaz)
 - [Krishna Gupta](https://github.com/Gutapa)
+- [Prayoga Tri](https://github.com/prayogatri)
 - [Kshitij Maurya](https://github.com/mauryakshitij)
 - [Jacob Reid](https://github.com/z4nzib4r)
 - [Sam Candela](https://github.com/samc18)
@@ -4106,8 +4109,7 @@
 - [Paulo Diniz](https://github.com/pldnz)
 - [Lalu Muhammad Gilang Kharisma](https://github.com/GilangKharisma/)
 - [Cra Rospo](https://github.com/CraRospo)
-- [Kevin Palowa](https://github.com/KevinPalowa/)
--[Looper](https://github.com/ResponseTime)
+- [Kevin Palowa](https://github.com/KevinPalowa/) -[Looper](https://github.com/ResponseTime)
 - [X3nonxe](https://github.com/X3nonxe/)
 - [nikhilxe](https://github.com/nikhilxe)
 - [Karthik Purushothaman](https://github.com/pkarthik15)
@@ -4196,5 +4198,6 @@
 - [xubai2001](https://github.com/xubai2001)
 - [Makkun](https://github.com/Makkkkuuunn)
 - [Anton Yartsev](https://github.com/AntonYartsev)
-
+- [kesz24](https://github.com/kesz24)
+- [khoirxz](https://github.com/khoirxz)
 <!-- prettier-ignore-end -->
