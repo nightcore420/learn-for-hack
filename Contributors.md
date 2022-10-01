@@ -26,6 +26,7 @@
 - [Akinbobola Emmanuel](https://github.com/Oluwatominsin-c)
 - [Razin Reaz Abedin](https://github.com/RazinReaz)
 - [Krishna Gupta](https://github.com/Gutapa)
+- [Prayoga Tri](https://github.com/prayogatri)
 - [Kshitij Maurya](https://github.com/mauryakshitij)
 - [Jacob Reid](https://github.com/z4nzib4r)
 - [Sam Candela](https://github.com/samc18)
