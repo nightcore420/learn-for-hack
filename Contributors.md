@@ -1,4 +1,5 @@
 # Contributors
+
 <!-- prettier-ignore-start -->
 - [Al-User12](https://github.com/Al-User12)
 - [Abhishek Mishra](https://github.com/AbhiMishra-Now)
@@ -4196,5 +4197,6 @@
 - [xubai2001](https://github.com/xubai2001)
 - [Makkun](https://github.com/Makkkkuuunn)
 - [Anton Yartsev](https://github.com/AntonYartsev)
+- [khoirxz](https://github.com/khoirxz)
 
 <!-- prettier-ignore-end -->
