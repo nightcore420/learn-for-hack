@@ -1,0 +1,62 @@
+body{
+	
+}
+
+/* HEADER */
+.logo{
+	height: 60px;
+}
+
+/* 404 NOT FOUND */
+.nf-section{
+	color: #7f8c8d;
+	font-size: 120%;
+}
+.nf-section a{
+	color: #c0392b;
+	font-size: 100%;
+}
+.nf-section h1{
+	color: #c0392b;
+	font-size: 80pt;
+	font-weight: bold;
+}
+
+/* PLAYLIST */
+.topsong{
+	text-align: center;
+	background: #ecf0f1;
+	border-bottom: 4px solid #ecf0f1;
+	padding: 5px 0 10px 0;
+	cursor: pointer;
+}
+.topsong.active{
+	border-bottom: 4px solid #f39c12;
+}
+.topsong:hover{
+	background: #fff;
+	border-bottom: 4px solid #fff;
+}
+
+
+/* SIMPLE FIXING */
+.content{
+	position: relative;
+}
+.content-title{
+	position: absolute;
+	bottom: 5px;
+	right: 10px;
+	background: rgba(255,255,255,.75);
+	padding: 5px 8px;
+	box-sizing: border-box;
+	font-size: 14pt;
+}
+.about{
+	font-size: 120%;
+}
+
+/* RESPONSIVE FIX */
+@media only screen and (max-width: 768px){
+	
+}
