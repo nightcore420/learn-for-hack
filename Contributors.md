@@ -4203,4 +4203,5 @@
 - [caseyocampo](https://github.com/caseyocampo)
 - [papoy](https://github.com/papoy-xor)
 - [Naka](https://github.com/Nakasz)
+- [Hal](https://github.com/sljtheultima)
 <!-- prettier-ignore-end -->
