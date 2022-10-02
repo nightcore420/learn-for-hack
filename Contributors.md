@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 <!-- prettier-ignore-start -->
 
@@ -4206,4 +4206,5 @@
 - [Hal](https://github.com/sljtheultima)
 - [andriawan24](https://github.com/andriawan24)
 - [Akmal Fauzi](https://github.com/Akmalfauzi)
+- [Aqshal Adzkia](https://github.com/aqshaladzkia)
 <!-- prettier-ignore-end -->
