@@ -4205,4 +4205,5 @@
 - [Naka](https://github.com/Nakasz)
 - [Hal](https://github.com/sljtheultima)
 - [andriawan24](https://github.com/andriawan24)
+- [Akmal Fauzi](https://github.com/Akmalfauzi)
 <!-- prettier-ignore-end -->
