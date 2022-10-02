@@ -4202,4 +4202,5 @@
 - [khoirxz](https://github.com/khoirxz)
 - [caseyocampo](https://github.com/caseyocampo)
 - [papoy](https://github.com/papoy-xor)
+- [Naka](https://github.com/Nakasz)
 <!-- prettier-ignore-end -->
