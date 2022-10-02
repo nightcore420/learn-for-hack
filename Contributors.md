@@ -49,6 +49,7 @@
 - [Harsh Mohan Yadav](https://github.com/InsanelyHarsh)
 - [Yaswanth Teja](https://github.com/yaswanthteja)
 - [Ki hyun Lee](https://github.com/daveg7lee)
+- [Ravi Ranjan](https://github.com/rvranjan99)
 - [Mark Chittenden](https://github.com/mark-chit)
 - [Bernardina Maldonado] (https://github.com/btlmaldonado530)
 - [Wilson Le](https://github.com/WilsonLe)
