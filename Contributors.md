@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Josua Sinaga](https://github.com/jo0707)
 - [Al-User12](https://github.com/Al-User12)
 - [Abhishek Mishra](https://github.com/AbhiMishra-Now)
 - [Gelio](https://github.com/bigelio)
