@@ -4211,4 +4211,5 @@
 - [Akmal Fauzi](https://github.com/Akmalfauzi)
 - [nabilsaragih](https://github.com/nabilsaragih)
 - [Elliot Alderson](https://github.com/mr-Hacker-Boy)
+- [Rahul D](https://github.com/mr-Hacker-Boy)
 <!-- prettier-ignore-end -->
