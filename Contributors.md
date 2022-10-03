@@ -8,6 +8,7 @@
 - [Hussain Lohawala :heart: :heart: :heart:](https://github.com/H9660)
 - [Rajesh Kumar Singh](https://github.com/NutNick31)
 - [Watts](https://github.com/Watts8bits)
+- [Husain01](https://github.com/Husain01)
 - [Anurag Nayak](https://github.com/Anu-Ra-g)
 - [Tejas Srivastava](https://github.com/MrTejas)
 - [Arunava Ghosh](https://github.com/its-ag)
