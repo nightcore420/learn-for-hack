@@ -4218,4 +4218,5 @@
 - [Elliot Alderson](https://github.com/mr-Hacker-Boy)
 - [Chaozyx](https://github.com/hilmykun)
 - [Yaelahgus] (https://github.com/yaelahgus)
+- [WilmanWyaukani] (https://github.com/Whilman)
 <!-- prettier-ignore-end -->
