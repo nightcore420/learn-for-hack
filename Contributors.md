@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 <!-- prettier-ignore-start -->
 
@@ -4211,6 +4211,7 @@
 - [Hal](https://github.com/sljtheultima)
 - [andriawan24](https://github.com/andriawan24)
 - [Akmal Fauzi](https://github.com/Akmalfauzi)
+- [Aqshal Adzkia](https://github.com/aqshaladzkia)
 - [nabilsaragih](https://github.com/nabilsaragih)
 - [cronousz](https://github.com/cronousz)
 - [Elliot Alderson](https://github.com/mr-Hacker-Boy)
