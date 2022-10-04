@@ -105,6 +105,7 @@
 - [Souradeep Bhattacharya](https://github.com/ThePsyk3y)
 - [Estitxu Larralde](https://github.com/Pitxunet)
 - [Aniket Kumar Paul](https://github.com/Aniket-Kumar-Paul)
+- [ericeladio](https://github.com/ericeladio)
 - [Piyush Chandel](https://github.com/Piyush-Chandel7)
 - [Aditya Saini(AdiOBS)](https://github.com/Aditya-Saini3)
 - [Adyasha Samal](https://github.com/Adyasha28)
