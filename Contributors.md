@@ -1,7 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Kunal Patil](https://github.com/Kunalp02)
 - [Josua Sinaga](https://github.com/jo0707)
 - [Al-User12](https://github.com/Al-User12)
 - [Abhishek Mishra](https://github.com/AbhiMishra-Now)
