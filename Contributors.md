@@ -4228,4 +4228,5 @@
 - [WilmanWyaukani] (https://github.com/Whilman)
 - [Khoolid] (https://github.com/Kholid0803)
 - [Amit Sharma](https://github.com/AmitSharma512)
+- [Fawaz Akunku](https://github.com/fawazakunku)
 <!-- prettier-ignore-end -->
