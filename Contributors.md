@@ -20,6 +20,7 @@
 - [Chad Perry](https://github.com/clewisperry)
 - Debobani Ghosh
 - [Samridh Srivastava](https://github.com/samridhsri)
+- [Budi Anggara](https://github.com/kmbudi)
 - [Anshuman Rout](https://github.com/anshuman0123)
 - [Divya Kaushik](https://github.com/divya1515)
 - [Daniel Stai](https://github.com/DanielStai)
