@@ -4224,4 +4224,5 @@
 - [Yaelahgus] (https://github.com/yaelahgus)
 - [WilmanWyaukani] (https://github.com/Whilman)
 - [Khoolid] (https://github.com/Kholid0803)
+- [Amit Sharma](https://github.com/AmitSharma512)
 <!-- prettier-ignore-end -->
