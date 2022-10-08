@@ -1,7 +1,8 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Kunal Patil](https://github.com/Kunalp02)
+- [Josua Sinaga](https://github.com/jo0707)
 - [Al-User12](https://github.com/Al-User12)
 - [Abhishek Mishra](https://github.com/AbhiMishra-Now)
 - [Gelio](https://github.com/bigelio)
@@ -18,6 +19,7 @@
 - [Daniel Harka](https://github.com/MrDanielHarka)
 - [Chad Perry](https://github.com/clewisperry)
 - Debobani Ghosh
+- [Samridh Srivastava](https://github.com/samridhsri)
 - [Anshuman Rout](https://github.com/anshuman0123)
 - [Divya Kaushik](https://github.com/divya1515)
 - [Daniel Stai](https://github.com/DanielStai)
@@ -35,6 +37,7 @@
 - [Sam Candela](https://github.com/samc18)
 - [Hilmi Mubarok](https://github.com/hilmimubarok)
 - [Blake Boston](https://github.com/bboston2008)
+- [Hardik Pratap Singh](https://github.com/hardik-pratap-singh)
 - [Zhan Guang](https://github.com/zhan3333)
 - [Sidabw](https://github.com/Sidabw)
 - [Banana Paul](https://github.com/pawel045)
@@ -97,6 +100,7 @@
 - [Reemyos](https://github.com/Reemyos)
 - [Yudistira Eka Pratama](https://github.com/tamathecxder)
 - [Saksham](https://github.com/saxam0)
+- [Jana](https://github.com/Urmi-Jana)
 - [kalpasuraweera](https://github.com/kalpasuraweera)
 - [Dev Bhandari](https://github.com/D-z-V)
 - [Aryan Kumar](https://github.com/THE-AryanKumar)
@@ -105,6 +109,7 @@
 - [Souradeep Bhattacharya](https://github.com/ThePsyk3y)
 - [Estitxu Larralde](https://github.com/Pitxunet)
 - [Aniket Kumar Paul](https://github.com/Aniket-Kumar-Paul)
+- [ericeladio](https://github.com/ericeladio)
 - [Piyush Chandel](https://github.com/Piyush-Chandel7)
 - [Aditya Saini(AdiOBS)](https://github.com/Aditya-Saini3)
 - [Adyasha Samal](https://github.com/Adyasha28)
@@ -3645,6 +3650,7 @@
 - [Fedi Salhi](https://github.com/FediSalhi)
 - [Nelson Joppi](https://github.com/njoppi2)
 - [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)
+- [Ankit Goyal](https://github.com/Ankit9126)
 - [8x34tnxge](https://github.com/8x34tnxge)
 - [Marcin Ziętara]([https://github.com/malpakw)
 - [Jacob Hobbs]([https://github.com/Xisurthros)
@@ -4198,6 +4204,7 @@
 - [melscoop](https://github.com/melscoop)
 - [SankalpBhatnagar](https://github.com/Doraemon23)
 - [ifeanyi chima](https://github.com/masterifeanyi)
+- [Pradeep Khatri](https://github.com/PradeepKhatri)
 - [xubai2001](https://github.com/xubai2001)
 - [Makkun](https://github.com/Makkkkuuunn)
 - [Anton Yartsev](https://github.com/AntonYartsev)
@@ -4211,5 +4218,10 @@
 - [Akmal Fauzi](https://github.com/Akmalfauzi)
 - [Aqshal Adzkia](https://github.com/aqshaladzkia)
 - [nabilsaragih](https://github.com/nabilsaragih)
+- [cronousz](https://github.com/cronousz)
 - [Elliot Alderson](https://github.com/mr-Hacker-Boy)
+- [Chaozyx](https://github.com/hilmykun)
+- [Yaelahgus] (https://github.com/yaelahgus)
+- [WilmanWyaukani] (https://github.com/Whilman)
+- [Khoolid] (https://github.com/Kholid0803)
 <!-- prettier-ignore-end -->

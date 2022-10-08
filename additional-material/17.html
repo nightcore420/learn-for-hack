@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+    body {
+        background-color: #1B1734;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-decoration: none;
+        color: white;
+        text-align: center;
+
+    }
+
+    h1 {
+        letter-spacing: 4px;
+        font-size: 50px;
+    }
+
+    h2 {
+        font-size: 20px;
+        color: #a89aff;
+    }
+
+    .transbox {
+        margin: 0 auto;
+        position: relative;
+        padding: 20px;
+        max-width: 680px;
+        background: rgba(255, 255, 255, .2);
+        margin-top: 40px;
+    }
+
+    .bungkus p {
+        font-size: 18px;
+    }
+
+    img {
+        box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+        border: 2px transparent;
+        -moz-border-radius: 20px;
+        -webkit-border-radius: 20px;
+        border-radius: 20px;
+        margin: 5px;
+    }
+
+    img:hover {
+        transform: scale(1.15);
+        box-shadow: 0 14px 28px rgba(255, 255, 255, 0.25), 0 10px 10px rgba(255, 255, 255, 0.22);
+    }
+
+    footer {
+        margin-top: 5%;
+    }
+
+    p.miring {
+        font-style: italic;
+        font-size: 18px;
+    }
+
+    p.bold {
+        font-weight: bold;
+    }
+
+    button {
+        padding: 7px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        width: 200px;
+    }
+
+    button.blue {
+        background-color: #3498db;
+    }
+
+    button.green {
+        background-color: #2ecc71;
+    }
+
+    button.orange {
+        background-color: orangered;
+    }
+
+    button.purple {
+        background-color: rgb(154, 45, 255);
+        color: azure;
+    }
+
+    table {
+        margin: 0px auto;
+        text-align: left;
+    }
+</style>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PERT 17</title>
+</head>
+<script lang="JavaScript">
+    function jumlah() {
+        var input1 = parseInt((document.fform.input1.value));
+        var input2 = parseInt((document.fform.input2.value));
+        var operator = (document.fform.op.value);
+        var hasil;
+
+        if (operator == '+') {
+            hasil = input1 + input2;
+            document.getElementById('hasil').innerHTML = '<h2> Hasilnya adalah = ' + hasil, '</h2>';
+        }
+        if (operator == '-') {
+            hasil = input1 - input2;
+            document.getElementById('hasil').innerHTML = '<h2> Hasilnya adalah = ' + hasil, '</h2>';
+        }
+        if (operator == '*') {
+            hasil = input1 * input2;
+            document.getElementById('hasil').innerHTML = '<h2> Hasilnya adalah = ' + hasil, '</h2>';
+        }
+        if (operator == '/') {
+            hasil = input1 / input2;
+            document.getElementById('hasil').innerHTML = '<h2> Hasilnya adalah = ' + hasil, '</h2>';
+        }
+    }
+
+    function looping() {
+        var text = "";
+        var i;
+        for (i = 0; i <= 10; i++) {
+            text += "Ini adalah text ke -" + i + "<br>";
+        }
+        document.getElementById('looping').innerHTML = text;
+    }
+</script>
+
+<body>
+    <form name="fform">
+        <h1>STRUKTUR KENDALI DAN LOOPING</h1>
+        <div class="transbox">
+            <h2>PROGRAM CALCULATOR</h2>
+            <table width="60%" style="text-align: center;">
+                <tr>
+                    <td>
+                        <h2>Nilai 1</h2>
+                    </td>
+                    <td></td>
+                    <td>
+                        <h2>Nilai 2</h2>
+                    </td>
+                </tr>
+                <tr>
+                    <td><input type="text" name="input1"></td>
+                    <td><select name="op">
+                            <option value="+">+</option>
+                            <option value="-">-</option>
+                            <option value="*">*</option>
+                            <option value="/">/</option>
+                        </select></td>
+                    <td><input type="text" name="input2"></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><input type="button" value="kirim" onclick="jumlah()"><input type="reset" value="ulang"
+                            onclick="document.getElementById('hasil').innerHTML = '';"></td>
+                    <td></td>
+                </tr>
+            </table>
+            <div id="hasil"></div>
+        </div>
+
+        <div class="transbox">
+            <h2>LOOPING</h2>
+            <br>
+            <button class="purple" onclick="looping(); return false;">Contoh Looping</button>
+            <div id="looping"></div>
+        </div>
+    </form>
+    <footer>Sugeng Gunantio - 191011400393</footer>
+</body>
+
+</html>
