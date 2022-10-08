@@ -6,13 +6,14 @@ if (php_sapi_name() !== "cli") {
 logM("Loading InstagramLive-PHP v0.3...");
 set_time_limit(0);
 date_default_timezone_set('America/New_York');
+define('IG_USERNAME', 'yourusername_here');
+define('IG_PASS', 'yourpass_here');
 
 //Load Depends from Composer...
 require __DIR__.'/vendor/autoload.php';
 use InstagramAPI\Instagram;
 use InstagramAPI\Request\Live;
 
-require_once 'config.php';
 /////// (Sorta) Config (Still Don't Touch It) ///////
 $debug = false;
 $truncatedDebug = false;
