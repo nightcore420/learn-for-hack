@@ -23,6 +23,7 @@
 - Debobani Ghosh
 - [Samridh Srivastava](https://github.com/samridhsri)
 - [Budi Anggara](https://github.com/kmbudi)
+- [Nanta XE](https://github.com/erlxxx/)
 - [Anshuman Rout](https://github.com/anshuman0123)
 - [Divya Kaushik](https://github.com/divya1515)
 - [Daniel Stai](https://github.com/DanielStai)
