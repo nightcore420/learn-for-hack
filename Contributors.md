@@ -4235,5 +4235,6 @@
 - [Amit Sharma](https://github.com/AmitSharma512)
 - [Fawaz Akunku](https://github.com/fawazakunku)
 - [Anurag Tiwari](https://github.com/Danuragtiwari)
+- [Mochamad Sofyan](https://github.com/sofyanmoch)
 
 <!-- prettier-ignore-end -->
