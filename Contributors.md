@@ -846,6 +846,7 @@
 - [Julian Schiedel](https://github.com/palladio11)
 - [Francis Alegre](https://github.com/francisaerol)
 - [Jon Gonzalez](https://github.com/jgonz-hub)
+- [Leonard Monosa](https://github.com/leonardmns12)
 - [Wayne Watson](https://github.com/grifway)
 - [Mick Meighan(https://github.com/gatters)
 - [Asma](https://github.com/asma-mughal)
