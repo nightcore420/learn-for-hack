@@ -3,8 +3,7 @@ library(rvest)
 urltribun <- 'https://www.tribunnews.com/tag/prabowo-subianto'
 halaman_akhir <- 4
 
-map_df(1:halaman_akhir, function(i) {
-  
+map_df(1:halaman_akhir, function(i) {  
   cat('.')
   laman <- read_html(sprintf(urltribun, i))
   
