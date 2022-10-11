@@ -109,6 +109,7 @@
 - [Dev Bhandari](https://github.com/D-z-V)
 - [Aryan Kumar](https://github.com/THE-AryanKumar)
 - [Ravi Tripathi](https://github.com/Ravi-Tripathi21)
+- [Dimas Wahyu Saputro](https://github.com/dimaswsss)
 - [Keerthivasan D](https://github.com/kd100100)
 - [Souradeep Bhattacharya](https://github.com/ThePsyk3y)
 - [Estitxu Larralde](https://github.com/Pitxunet)
