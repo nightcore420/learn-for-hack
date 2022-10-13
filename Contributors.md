@@ -34,6 +34,7 @@
 - baba
 - [Akinbobola Emmanuel](https://github.com/Oluwatominsin-c)
 - [Razin Reaz Abedin](https://github.com/RazinReaz)
+- Hal (https://github.com/hal1093)
 - [Krishna Gupta](https://github.com/Gutapa)
 - [Prayoga Tri](https://github.com/prayogatri)
 - [Kshitij Maurya](https://github.com/mauryakshitij)
