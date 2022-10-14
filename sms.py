@@ -7,8 +7,8 @@ from twilio.rest import Client
 # and set the environment variables. See http://twil.io/secure
 while True:
 
-    account_sid ='AC84dee919cfa8bce5b9ff1cb805f6df64' 
-    auth_token = '998f90990f0a60c34998cc0a11efb3fa'
+    account_sid ='your_account_sid' 
+    auth_token = 'your_auth_token'
     client = Client(account_sid, auth_token)
 
 
@@ -17,8 +17,8 @@ while True:
     message = client.messages \
                     .create(
                          body= f"{text}",
-                         from_='+12058906921',
-                         to='+989960950834'
+                         from_='fromnumber',
+                         to='tonumber'
                  )
 
     print(message.sid)
