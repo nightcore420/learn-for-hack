@@ -4235,5 +4235,6 @@
 - [Amit Sharma](https://github.com/AmitSharma512)
 - [Fawaz Akunku](https://github.com/fawazakunku)
 - [Anurag Tiwari](https://github.com/Danuragtiwari)
+- [Adtyya](https://github.com/Adtyya)
 
 <!-- prettier-ignore-end -->
