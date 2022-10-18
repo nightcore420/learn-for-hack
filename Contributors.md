@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Aditya Garg](https://github.com/aditya7302)
 - [Kunal Patil](https://github.com/Kunalp02)
 - [Josua Sinaga](https://github.com/jo0707)
 - [Muhammad Pauzi](https://github.com/muhammadpauzi)
