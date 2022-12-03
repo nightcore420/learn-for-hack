@@ -22,7 +22,8 @@
 - [Chad Perry](https://github.com/clewisperry)
 - Debobani Ghosh
 - [Samridh Srivastava](https://github.com/samridhsri)
-- [Budi Anggara](https://github.com/kmbudi)
+- [Anushka Mandal] (https://github.com/anushkamandal25)
+  [Budi Anggara](https://github.com/kmbudi)
 - [Nanta XE](https://github.com/erlxxx/)
 - [Anshuman Rout](https://github.com/anshuman0123)
 - [Divya Kaushik](https://github.com/divya1515)
